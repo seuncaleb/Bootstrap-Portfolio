@@ -1,5 +1,15 @@
-.jumbotron{
-    background-color: black;
+
+.img {
+    background-repeat: no-repeat;
     color: white;
+    background: url(../images/Gold\ Blue\ Law\ Firm\ Sleek\ Corporate\ Law\ Firm\ Website.png);
+    background-size: cover;
+    height:70vh;
+    min-height: 100%;
+    background-position: center;
+
 }
 
+#works {
+    background: #E3DCCB;
+}
