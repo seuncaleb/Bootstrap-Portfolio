@@ -10,6 +10,41 @@
 
 }
 
-#works {
-    background: #E3DCCB;
+#skills,
+#contact {
+    background: #C7996F;
+}
+
+ a{
+    text-decoration: none;
+    color: #8C6D55;
+    text-decoration: none;
+}
+
+ a:hover{
+    color: #8C6D55 ;
+    text-decoration: none;
+}
+
+.nav-link,
+.navbar-brand{
+    color: #E3DCCB;
+}
+
+.navbar{
+    background-color:#664736;
+}
+
+#contact h5{
+
+    color: aliceblue;
+}
+
+#contact a{
+
+    color: aliceblue;
+}
+
+#contact a:hover {
+    color: #664736;
 }
