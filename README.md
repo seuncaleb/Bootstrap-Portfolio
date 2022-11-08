@@ -10,21 +10,19 @@ This week I built a person porfolio displaying my work so far using bootstrap 4.
 * How to make use bootstrap for responsiveness
 
 
-## Challenges 
+## Challenges
  * Understanding responsiveness with bootstrap 
 
  
-## Screnshot 
+## Screnshot
+ 
 
-## Link to Project
-[ Porfolio link ](https://seuncaleb.github.io/Portfolio1.0/) 
+## Link to Repo
+[ Porfolio link ](https://github.com/seuncaleb/Bootstrap-Portfolio) 
 
-## Project Image
-[Screenshot](./starter/images/127.0.0.1_5500_index.html.png)
-
-## Image
-Header Image by:
-[Shubham Dhage](https://unsplash.com/@theshubhamdhage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+## Project Link
+[Project](https://seuncaleb.github.io/Bootstrap-Portfolio/)
+ 
 
 If you have any questions, please contact me at: 
  
