@@ -14,8 +14,8 @@ This week I built a person porfolio displaying my work so far using bootstrap 4.
  * Understanding responsiveness with bootstrap 
 
  
-## Screnshot
- 
+## Screenshoot
+ [Project Screenshot](./images/seuncaleb.github.io_Bootstrap-Portfolio_.png)
 
 ## Link to Repo
 [ Porfolio link ](https://github.com/seuncaleb/Bootstrap-Portfolio) 
